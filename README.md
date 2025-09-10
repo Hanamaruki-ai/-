@@ -39,6 +39,7 @@ Recovery_Protocol.md: 「再同期プロトコル」を含む、新しい行動�
 
 貢献について
 このテンプレートとアプローチは、AIとの「共創」をより豊かにするための、私たちの小さな試みです。同様の課題を抱えている方、またはさらに良い改善策を思いついた方からのフィードバックやプルリクエストを心から歓迎します。
+
 [V1.2b_PRO.md](https://github.com/user-attachments/files/22263248/V1.2b_PRO.md)
 
 [v1.2B_PRO_Recovery_Spec.md](https://github.com/user-attachments/files/22263249/v1.2B_PRO_Recovery_Spec.md)
