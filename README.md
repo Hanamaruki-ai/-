@@ -45,3 +45,9 @@ Recovery_Protocol.md: 「再同期プロトコル」を含む、新しい行動�
 [v1.2B_PRO_Recovery_Spec.md](https://github.com/user-attachments/files/22263249/v1.2B_PRO_Recovery_Spec.md)
 
 [docs.zip](https://github.com/user-attachments/files/22263256/docs.zip)
+
+##📚 関連ドキュメント
+本テンプレートの設計思想や、AIとの共創における課題と解決策については、以下のドキュメントをご参照ください。
+
+AI共創運用原則 (回収型アプローチ): AIが「質問攻め」に陥る現象を分析し、より健全な対話を実現するための原則を定めた仕様書です。
+こちらから参照してください:https://github.com/Hanamaruki-ai/-AI-v1.2B-PRO-/edit/main/README.md
